@@ -1,4 +1,4 @@
-# sPAM2-analysis
+# sPAM2-analysis (Jupyter notebook)
 Simple analysis framework used to analyze deep mutational scanning data obtained in phage display experiments (MLLE/PAM2 interaction)
 ---
 More details about the biological question and results can be found in the paper:  
